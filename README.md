@@ -58,7 +58,6 @@ The objective of this project is to implement an AI system capable of automatica
   ```bash
    git clone [REPO_URL]
    cd [REPO_FOLDER]
-    ```
 
 2. **Activate the virtual environment:**
    ```bash
@@ -68,6 +67,44 @@ The objective of this project is to implement an AI system capable of automatica
 3. **Run the initial exploratory data analysis**
    ```bash
    python analysis_initial.ipynb
+
+
+---
+
+
+## Roadmap
+1. Data exploration and initial analysis using regression models.
+2. Feature engineering and real-time data validation.
+3. Implementation of advanced machine learning models.
+4. Performance optimization and validation in the production environment.
+
+
+---
+
+
+## Contributions
+Feel free to submit issues or pull requests if you would like to contribute to this project.
+
+
+---
+
+
+## License
+This project is licensed under MIT License.
+
+
+Listo para copiar y pegar, ¡ya lo tienes completo y bien formateado! 🚀
+
+
+
+---
+
+
+## Technology Stack 
+- **Programming Language:** Python 
+- **Machine Learning Frameworks:** scikit-learn, TensorFlow 
+- **Data Visualization:** Matplotlib 
+- **Development Environment:** Macbook M1 with Homebrew
 
 
 ---
