@@ -38,16 +38,16 @@ The objective of this project is to implement an AI system capable of automatica
   brew install python
   ```
 
-2. **Create virtual environment**
+2.  **Create virtual environment**
    ```bash
    python3 -m venv Apollo
    source Apollo/bin/activate
-
+    ```
 
 3. **Install required dependencies**
    ```bash
    pip install numpy pandas scikit-learn matplotlib tensorflow
-
+    ```
 
 ---
 
