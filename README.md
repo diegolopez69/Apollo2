@@ -58,6 +58,7 @@ The objective of this project is to implement an AI system capable of automatica
   ```bash
    git clone [REPO_URL]
    cd [REPO_FOLDER]
+  ``` 
 
 2. **Activate the virtual environment:**
    ```bash
