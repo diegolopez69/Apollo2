@@ -96,3 +96,17 @@ This project is licensed under MIT License.
 
 
 Listo para copiar y pegar, ¡ya lo tienes completo y bien formateado! 🚀
+
+
+
+---
+
+
+## Technology Stack 
+- **Programming Language:** Python 
+- **Machine Learning Frameworks:** scikit-learn, TensorFlow 
+- **Data Visualization:** Matplotlib 
+- **Development Environment:** Macbook M1 with Homebrew
+
+
+---
