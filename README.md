@@ -63,12 +63,13 @@ The objective of this project is to implement an AI system capable of automatica
 2. **Activate the virtual environment:**
    ```bash
    source Apollo/bin/activate
+   ```
 
 
 3. **Run the initial exploratory data analysis**
-   ```bash
-   python analysis_initial.ipynb
-
+    ```
+    python analysis_initial.ipynb
+    ```
 
 ---
 
