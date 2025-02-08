@@ -169,3 +169,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb.meta
+
+# macOS (M1)
+.DS_Store
+
+# Entorno virtual
+Apollo2/
