@@ -36,7 +36,7 @@ The objective of this project is to implement an AI system capable of automatica
 1. **Install Python:** 
   ```bash
   brew install python
-  ```
+  
 
 2. **Create virtual environment**
    ```bash
